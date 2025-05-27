@@ -1,0 +1,812 @@
+﻿Kategori,Nama_minuman,Nutri_Score,Energy (Per 100 ml),Fat (Per 100 ml),Saturated fat (Per 100 ml),Carbohydrates (Per 100 ml),Sugars (Per 100 ml),Fiber (Per 100 ml),Proteins (Per 100 ml),Salt (Per 100 ml)
+fruit-juices,Cappy pulpy,e,155.0,0.0,0,9,7,,0.0,0.05
+fruit-juices,PRESSup,c,226.0,0.1,0,13,5.5,0.1,0.4,2.5e-06
+fruit-juices,Press up,c,226.0,0.1,0,13,5.5,0.1,0.4,0.0025
+fruit-juices,Shot de gingembre bio,c,142.0,0.5,0.1,7.9,7.6,0,0.5,0.01
+fruit-juices,Jutos,d,66.8,0.0,0,10,8,0,0.0,0.05
+fruit-juices,Pago Ace - Orange - Carotte - Citron,e,168.0,0.5,0.1,9.2,9.2,,0.5,0.0
+fruit-juices,Succo di limone,b,117.0,0.5,0.1,2.2,2.2,0.5,0.4,0.01
+fruit-juices,Press Up mini,e,157.0,0.0,0,8.7,4.5,0.2,0.1,2.5
+fruit-juices,ice POMME 1.5l,e,243.0,0.0,0,9.9,9.8,,0.0,0.02
+fruit-juices,Orangensaft,c,182.0,0.0,0,8.9,8.9,0.6,0.8,0.0
+fruit-juices,Simon life,d,84.0,0.1,0,4.8,4.8,,0.0,0.03
+fruit-juices,Juicy Oranges Whole Fruit Squash,e,672.0,0.0,0,41,41,,0.0,0.0
+fruit-juices,Pulpy pècne,e,143.0,0.0,0,7.9,7.9,,0.0,0.01
+fruit-juices,"Tropicana 100% oranges pressées sans pulpe format familial 1,5 L",c,182.0,0.0,0,8.9,8.9,0.6,0.8,0.0
+fruit-juices,Mélanges de fruits,d,224.0,0.0,0,12.8,12.8,,0.3,0.01
+fruit-juices,1L PUR JUS ORANGE JOKER NEW,c,172.0,0.0,0,9,8.5,0,0.8,0.0
+fruit-juices,Jus d'orange sans pulpe,c,181.0,0.05,0.01,9,9,,0.7,0.02
+fruit-juices,Frutas Mezcladas,d,222.0,0.0,0,12.8,12.8,,0.3,0.01
+fruit-juices,Jus d'orange,e,205.0,0.0,0,12,11.2,0,0.1,0.0
+fruit-juices,Jutos,d,188.0,0.0,0,11.4,10.7,6111242106933,0.0,0.5
+fruit-juices,FA-BU-BLEU,c,172.0,0.0,0,10,9.3,,0.0,0.0
+fruit-juices,Pur jus de citron,b,133.0,0.8,0.2,1.7,1.7,0,0.0,0.0
+fruit-juices,Abtal,e,205.0,0.0,0,12,11.2,,0.1,0.0
+fruit-juices,"Shot de Mangue, gingembre, citron vert",b,131.0,0.333,0.0667,6,5.8,0.333,0.333,0.0667
+fruit-juices,Super Smoothie Antioxydant,d,230.0,0.5,0.1,13,11,1.1,0.5,0.1
+fruit-juices,Jafaden,c,184.0,0.5,0.1,9.7,9.7,0.5,0.6,0.01
+fruit-juices,PET 1.5L PUR JUS ORANGE JOKER,c,176.0,0.0,0,8.6,8.6,,0.6,0.01
+fruit-juices,Minute maid orange,c,176.0,0.0,0,8.7,8.7,,0.7,0.0
+fruit-juices,Le Bio Orange,c,144.0,0.0,0,8.2,8.2,0.5,0.5,0.0
+fruit-juices,Tropicana Multivitamines 1 L,e,204.0,0.0,0,12,10.7,0,0.0,0.0
+fruit-juices,Tropicana 100% oranges pressées avec pulpe 1 L,c,179.0,0.0,0,8.6,8.6,0.8,0.8,0.0
+fruit-juices,Jus joker multifruit,d,197.0,0.0,0,11,10,,0.0,0.0
+fruit-juices,Jutos,e,191.0,0.0,0,11.4,10.7,0,0.0,0.5
+fruit-juices,Le fruit Orange sans pulpe,c,178.0,0.0,0,8.7,8.7,,0.6,0.01
+fruit-juices,Bio gyömbér shot,c,163.0,0.5,0.1,7.9,7.6,,0.5,0.025
+fruit-juices,Disfruta Frutas Y Vitaminas Brik imp,b,105.0,0.1,0,5.6,4.8,,0.2,0.01
+fruit-juices,Pur jus de citron,b,133.0,0.8,0.2,1.7,1.7,0,0.0,0.01
+fruit-juices,100% jus à base de jus concentrés et de purées,c,207.0,0.5,0.1,11,11,,0.5,0.0
+fruit-juices,Tropicana Multivitamines format familial 1.5 L,c,199.0,0.0,0,11,11,0.6,0.5,0.0
+fruit-juices,brilliant beetroot,c,176.0,0.1,0,9.3,9.3,,0.9,0.0
+fruit-juices,Ginger Turmeric Shot,b,134.0,0.5,0.1,5.8,5.7,0.2,0.5,0.01
+fruit-juices,Blackcurrant Squash,d,77.0,0.0,0,4.3,4.2,,0.0,0.06
+fruit-juices,SIMON LIFE,d,84.0,0.0,0,4.8,4.8,,0.1,0.075
+fruit-juices,Jus de pomme,c,192.0,0.1,0,10,10,0,0.5,0.01
+fruit-juices,Jus de pomme pur jus,c,197.0,0.1,0.1,11,10.5,,0.1,0.01
+fruit-juices,Apple Juice,d,193.0,0.1,0.1,10.4,9.9,0.5,0.1,0.01
+fruit-juices,Double Concentrate Apple & Blackcurrant Squash No Added Sugar,d,75.0,0.0,0,2.4000000953674,2.4000000953674,0,0.0,0.25
+fruit-juices,Pineapple juice. Saft Ananas Saft,d,210.0,0.0,0,11.5,11.5,0.2,0.4,0.01
+fruit-juices,Innocent jus tutti frutti 900ml,e,185.0,0.0,0,11,9.5,,0.0,0.0
+fruit-juices,Marrakech orange 1l,c,209.0,0.0,0,11,11,1.2,0.7,0.00762
+fruit-juices,Rostoy melocotón 1l,d,230.0,0.0,0,13.3,13.3,,0.3,0.0
+fruit-juices,Pur jus citron bio,b,118.0,0.5,0.1,1.7,1.7,,0.5,0.01
+fruit-juices,Pj pomme pet 1l,c,175.0,0.0,0,10,10,0,0.1,0.01
+fruit-juices,"Innocent myrtille, cassis, pomme, cranberry",c,192.0,0.333,0.0667,11.3,10,0.333,0.333,0.00667
+fruit-juices,Lemon juice,b,84.0,0.5,0.1,15,0.5,0.5,0.5,0.01
+fruit-juices,Innocent Smooth Orange Juice,d,149.0,0.5,0.1,7.8,7.8,0.7,0.7,0.01
+fruit-juices,100% oranges sans pulpe,b,149.0,0.5,0.1,7.8,7.8,0.7,0.7,0.01
+fruit-juices,Pure Squeezed Orange Juice Smooth Not From Concentrate,c,180.0,0.0,0,10,10,,0.6,0.01
+fruit-juices,Zumo pura naranja con pulpa,d,189.0,0.1,0,9.9,9.3,0.8,0.7,0.0
+fruit-juices,Valencia 100% jus orange 1l,e,209.0,0.0,0,10.9,10.9,0,0.7,0.0
+fruit-juices,L'original - Jus de pomme pétillant,d,195.0,0.0,0,11.5,10,,0.0,0.01
+fruit-juices,Jus d'orange avec pulpe,c,156.0,0.0,0,7.8,7.8,0.85,0.7,0.0
+fruit-juices,Zest Défense,c,171.0,0.0,0,10,9.33,,0.0,0.0
+fruit-juices,Énergie Chérie,e,180.0,0.01,0.01,10,9.8,0,0.18,0.0
+fruit-juices,Apfelsaft aus Apfelsaftkonzentrat,c,190.0,0.1,0.1,10.5,10,,0.1,0.01
+fruit-juices,Raw Boost,e,201.0,0.3,0.1,10,8.3,0.7,0.4,0.01
+fruit-juices,100% Pur jus oranges,c,172.0,0.1,0,9.1,9.1,0.6,0.6,0.0
+fruit-juices,Tasty Summer Fruits,c,75.0,0.0,0,4.3,4.3,0,0.0,0.0
+fruit-juices,Jus d'orange sans pulpe,b,149.0,0.5,0.1,7.8,7.8,0.7,0.7,0.01
+fruit-juices,,e,225.0,0.0,0,13,12,0.5,0.0,0.05
+fruit-juices,JOKER LE BIO MULTIFRUIT 1L,c,167.0,0.0,0,9.3,8.6,0,0.0,0.0
+fruit-juices,100% Pur Jus - Pomme,c,197.0,0.0,0,10,10,0,0.0,0.01
+fruit-juices,Pressed Apple Juice Not From Concentrate,d,207.0,0.0,0,11.2,11.2,0.5,0.3,0.1
+fruit-juices,Le Fruit - Orange sans pulpe,c,178.0,0.0,0,8.7,8.7,0,0.6,0.01
+fruit-juices,Zumo Juver Disfruta Piña Brik 1L,d,105.0,0.1,0,5.7,4.5,0.01,0.2,0.1
+fruit-juices,PET 1L JOKER LE FRUIT POMME,c,188.0,0.0,0,10,9.8,,0.0,0.0
+fruit-juices,100% pur jus orange sans pulpe,c,187.0,0.5,0.1,10.1,8.5,0.5,0.7,0.01
+fruit-juices,Smooth Orange Juice,c,172.0,0.0,0,9.3,8.6,0,0.8,0.0
+fruit-juices,Zumo naranja,c,187.0,0.1,0,10,10,0,0.6,0.0
+fruit-juices,100% pur jus orange sans pulpe,c,160.0,0.0,0,8.7,8.7,,0.7,0.0
+fruit-juices,Tropicana Pamplemousse rose 1 L,c,164.0,0.0,0,7.6,7.6,0.9,0.5,0.0
+fruit-juices,Innocent jus pomme & framboise 900ml,c,181.0,0.0,0,10,9.33,0.667,0.193,0.0
+fruit-juices,Ice pomme 33cl,e,243.0,0.0,0,14.3,14.3,,0.0,1.6
+fruit-juices,Jutos,e,167.0,0.0,0,10,8,0,0.0,20.0
+fruit-juices,Pur jus de citron,b,116.0,0.0,0,2,2,0,0.0,0.0
+fruit-juices,apple juice,d,180.0,0.0,0,11,9.5,0.5,0.2,0.0
+fruit-juices,Limón exprimido,c,125.0,0.0,0,7.1,0.01,,0.0,1.5
+fruit-juices,Cranberry drink,e,154.0,0.1,0,8.4,8.4,0,0.1,0.03
+energy-drinks,Redbull,e,192.0,0.0,,11,11,,0.0,0.1975
+energy-drinks,Lemon,d,75.2,0.0,,4.4,4.4,,0.0,0.05
+energy-drinks,25 cl Red Bull - Energy Drink,e,195.0,0.0,0,11,11,,0.0,0.1
+energy-drinks,Red Bull sugarfree,c,13.0,0.0,,0,,,0.0,0.105
+energy-drinks,Sting,e,117.0,0.0,0,7,6.8,,0.0,0.1025
+energy-drinks,Energizant HELL,e,192.0,0.0,0,11,11,,0.0,0.5
+energy-drinks,Sting,e,176.0,0.0,0,11,10,0,0.0,0.04
+energy-drinks,Red Bull Original,e,192.0,0.0,,11,11,,0.0,0.1
+energy-drinks,monster,e,201.0,0.0,0,12,11,0,0.0,0.199
+energy-drinks,Kong Strong - Sugar Free,c,15.0,0.0,0,0.1,0.1,0,0.4,0.23
+energy-drinks,Rejuvenate Natural Energy,b,84.0,0.0,0,3.9,3.9,0,0.0,0.0
+energy-drinks,BTE 25CL RED BULL SANS SUCRE,c,13.0,0.0,0,0,0,0,0.0,0.1
+energy-drinks,Monster Energy Ultra,c,10.0,0.0,0,0.9,0,0,0.0,0.2
+energy-drinks,Burn,e,261.0,0.0,0,14.4,14.4,,0.0,0.0
+energy-drinks,Red Bull 250ml,e,192.0,0.0,,11,11,,0.0,0.0975
+energy-drinks,Monster Energy Ultra,c,10.0,0.0,0,0.88,0,0,0.0,0.2
+energy-drinks,Monster Energy Original,e,201.0,0.0,,12,11,,0.0,0.19
+energy-drinks,Kong Strong,e,98.0,0.0,0,4.9,4.9,,0.4,0.23
+energy-drinks,BTE 50CL MONSTER MANGO LOC,e,155.0,0.0,,9.4,8.6,,0.0,0.3
+energy-drinks,redbull sugarfree,c,13.0,0.0,,0,,,0.0,0.0975
+energy-drinks,Boisson énergisante,e,192.0,0.0,0,11,11,0,0.0,0.1
+energy-drinks,Mango loco bebida energética con taurina y ginseng,e,203.0,0.0,0,12,11,,0.0,0.05
+energy-drinks,Redbull pasteque,e,190.0,0.0,0,11,11,0,0.0,0.1
+energy-drinks,Monster Energy zéro sucre,c,71.0,0.0,0,1,0,,0.0,0.2
+energy-drinks,BTE 50CL MONSTER PIPELIN PUNCH,e,155.0,0.0,0,8.7,8.6,,0.0,0.04
+energy-drinks,Monster energy zero sugar Lewis hamilton,c,13.0,0.0,0,0.8,0,0,0.0,0.16
+energy-drinks,BTE 50CL MONSICK ULIRA ZERO,c,8.0,0.0,0,0.9,0,,0.0,0.2
+energy-drinks,Waldbeere Zero,b,8.0,0.0,,0,,,0.0,0.25
+energy-drinks,PET 1L ENERGY CRAZY TIGER,d,86.0,0.0,0,4.4,4.4,,0.5,0.19
+energy-drinks,Powerade gout cerise,d,71.0,0.11,0,3.9,3.9,0,0.0,0.13
+energy-drinks,Sting,e,176.0,0.0,0,11,10,0,0.0,0.0
+energy-drinks,Bebida Isotonica,d,79.0,0.0,0,4.4,4.4,0,0.0,0.06
+energy-drinks,Red Bull Blue Edition,e,192.0,0.0,0,11,11,0,0.0,0.1
+energy-drinks,Original energy drink,e,155.0,0.0,,8.9,4.5,,0.0,0.000225
+energy-drinks,Tropical punch,c,21.0,0.0,0,1,0.5,0,0.0,0.02
+energy-drinks,Monster Energy,e,203.0,0.0,,12.3,11.4,,0.0,0.196
+energy-drinks,HOLY Energy,b,15.0,0.1,0.1,0.3,0.1,0.3,0.2,0.1
+energy-drinks,473ML BT RED BULL ENERGY DRINK,e,195.0,0.0,0,11,11,0,0.0,0.1
+energy-drinks,Celsius Tropical Vibe,c,11.8,0.0,0,0,0,,0.0,0.0
+energy-drinks,Monster Juiced,e,200.0,0.0,,12,11.2,,0.0,0.12
+energy-drinks,Red Bull Sugarfree,c,12.4,0.0,,0,,,0.0,0.102
+energy-drinks,Energy Zero Sugar,c,15.0,0.0,,1,0,,0.0,0.19
+energy-drinks,Red Bull The Apricot Edition Goût abricot-fraise,e,191.0,0.0,0,11,11,0,0.0,0.1
+energy-drinks,Kokos Blaubeere (Weiß),e,188.0,0.0,,11,11,,0.0,0.1
+energy-drinks,Lucozade Energy Orange,d,146.0,0.0,,8.4,4.5,,0.0,0.0015
+energy-drinks,hel  energy cof s,c,138.0,0.8,0.5,3.8,3.5,,2.6,0.079
+energy-drinks,Curuba-Holunderblüte Summer-Edition,e,188.0,0.0,0,11,11,,0.0,0.039
+energy-drinks,Sting Energy drink,e,176.0,0.0,0,11,10,0,0.0,4.0
+energy-drinks,Original Energy Drink,d,185.0,0.0,,11.7,10.5,10.5,0.0,0.106
+energy-drinks,Celsius Peach Vibe,c,11.8,0.0,,0.563,0,,0.0,0.00352
+energy-drinks,Monster Ultra Paradise,c,12.0,0.0,0,0.9,0,0,0.0,0.16
+energy-drinks,Ultra Zero Sugar,c,1.6,0.0,,0.18,0,,0.0,0.0395
+energy-drinks,Monster Energy,e,201.0,0.0,0,12,11,,0.0,0.19
+energy-drinks,Monster Mango Loco,e,200.0,0.0,,12,11.2,,0.0,0.12
+energy-drinks,Tenzing Pineapple and Passionfruit,c,80.0,0.0,0,4.5,4.5,,0.0,0.1
+energy-drinks,Nalu vert,d,84.0,0.0,0,4.7,4.7,0,0.0,0.0
+energy-drinks,Classic,e,201.0,0.0,0,12,11,0,0.0,0.19
+energy-drinks,Énergie drink,c,8.0,0.0,0,0.1,0.1,0,0.1,0.23
+energy-drinks,Hell strong Apple,e,192.0,0.0,,11,11,,0.0,0.1975
+energy-drinks,Redbull,e,192.0,0.0,,11,11,,0.0,0.0975
+energy-drinks,Redbull,e,192.0,0.0,0,11,11,0,0.0,0.1975
+energy-drinks,Power horse,e,201.0,0.0,0,11,11,0,0.0,0.15
+energy-drinks,Redbull Juneberry,c,57.0,0.0,,3.33,3.33,,0.0,0.0758
+energy-drinks,Monster Monarch Juiced,e,155.0,0.0,0,9.3,8.7,,0.0,0.1
+energy-drinks,Monster Energy - Ultra Watermelon,c,13.0,0.0,0,1.3,0,,0.0,0.1
+energy-drinks,Enrgy Drnk - Original,e,193.0,0.0,0,10.8,10.7,0,0.0,0.16
+energy-drinks,Tenzing - Raspberry & Yuzu,c,80.0,0.0,0,4.5,4.5,,0.0,0.1
+energy-drinks,Power,e,188.0,0.0,0,10,10,0.5,0.39,0.15
+energy-drinks,Blue Raspberry Flavour,c,17.0,0.0,0,1,0.5,,0.0,0.02
+energy-drinks,Red Bull - Green Edition - Goût fruit du dragon,e,192.0,0.0,0,11,11,,0.0,0.1
+energy-drinks,White Édition - Coco Acaï,e,191.0,0.0,0,11,11,0,0.0,0.01
+energy-drinks,Burn Energy Drink,e,263.0,0.0,0,16,15,,0.0,0.1
+energy-drinks,Sparkling Wild Berry,c,12.0,0.0,0,0,0,0,0.0,0.003525
+energy-drinks,Red Bull Sugar free,c,16.8,0.0,,0.8,0,,0.0,0.105
+energy-drinks,,e,202.0,0.5,0.1,11,11,,0.5,0.01
+energy-drinks,Kaktus,e,192.0,0.0,0,11,11,0,0.0,0.1
+energy-drinks,Siti Energy Drink,e,184.0,0.0,0,10.5,10.5,,0.0,0.2
+energy-drinks,Monster Rehab Tea+peach+ Energy,c,44.0,0.1,0.1,2.2,2.1,,0.1,0.12
+energy-drinks,,e,184.0,0.0,0,10.3,10.3,0,0.0,0.2
+energy-drinks,Crazy Tiger Energy Drink,d,88.0,0.0,0,4.4,4.4,0,0.5,0.2
+energy-drinks,Activevitamin,c,46.0,0.0,0,2.1,2,,0.0,0.0
+energy-drinks,Ultra paradise,b,13.0,0.0,0,0,0,,0.0,0.0
+energy-drinks,,c,100.0,0.0,0,6,3.9,,0.5,0.13
+energy-drinks,BTE 50CL MONSTER ULTRA GOLD,c,8.0,0.0,0,1.1,0,0,0.54,0.11
+energy-drinks,Monster juiced Aussie style lemonade,e,151.0,0.0,,9,8.3,,0.4,0.08
+energy-drinks,Monster Paradise,e,151.0,0.0,0,9,8.5,,0.0,0.04
+energy-drinks,Monster Energy Zero Sugar,b,13.0,0.0,0,1,0,0,0.0,0.1875
+energy-drinks,Gönrgy Blueberry Coconut,c,13.0,0.0,0,0,0,0,0.0,0.0
+energy-drinks,Colossus mango,c,79.0,0.0,0,4.1,4.1,0,0.0,0.13
+plant-milks,Geröstete Mandel Ohne Zucker,b,61.0,1.1,0.1,0,0,0.3,0.5,0.15
+plant-milks,Oat Drink Barista Edition,d,255.0,3.0,0.3,7.1,3.4,0.8,1.1,0.0975
+plant-milks,Ohne Zucker Hafer,c,183.0,1.8,0.2,5.5,0,1.3,0.7,0.09
+plant-milks,Bio-Almond-Mandelmilch,c,112.0,2.4,0.2,0,0,0.4,1.0,0.26
+plant-milks,Geröstete Mandel,c,93.0,1.1,0.1,2.4,2.4,0.4,0.4,0.14
+plant-milks,BjORG AMANDE ALMOND SANS SUGRES- NO SUGAR,b,102.0,1.7,0.2,1.6,0.5,0.5,0.7,0.05
+plant-milks,Oat,c,192.0,1.5,0.2,6.6,3.3,1.4,0.8,0.0775
+plant-milks,Hafer Milch Barista Edition,d,257.0,3.0,0.3,7.1,3.4,0.8,1.1,0.1
+plant-milks,"Alpro Haferdrink, Ungesüßt 1 L, FRESH",c,169.0,1.5,0.2,5.8,0,1.2,0.2,0.11
+plant-milks,The Original Organic Oat Drink imp,c,166.0,0.5,0.1,7.2,3.4,0.8,1.1,0.1
+plant-milks,"Alpro® Barista Haferdrink, 1 L, UHT",d,248.0,3.0,0.3,6.7,3.3,1,0.8,0.13
+plant-milks,Soyamilch,b,163.0,1.8,0.3,2.5,2.5,0.5,3.0,0.09
+plant-milks,Avoine - Boisson biologique,c,187.0,1.5,0.3,7,4,0.5,0.5,0.09
+plant-milks,Oat Drink Whole,d,251.0,2.8,0.3,7.9,3.4,0.8,1.1,0.0975
+plant-milks,Délicieuse & Tropical Coco,b,85.0,0.8,0.8,2.7,1.9,0.1,0.1,0.13
+plant-milks,Barista edition oat drink,d,255.0,3.0,0.3,7.1,3.4,0.8,1.1,0.1
+plant-milks,Bjorg amande,c,171.0,1.9,0.3,5.4,4,,0.5,0.05
+plant-milks,Lait de coco,e,749.0,18.0,17,2.9,2.2,0.5,2.0,0.03
+plant-milks,asiri fraise,e,272.0,1.07,0.89,13.1,8,,0.7,0.0
+plant-milks,"Alpro® Mandeldrink Ungesüßt, 1 L, FRESH",b,53.0,1.1,0.1,0,0,0.4,0.4,0.13
+plant-milks,"Alpro Sojadrink, Ungesüßt 1L",b,138.0,1.8,0.3,0,0,0.6,3.3,0.09
+plant-milks,Bebida de Avena,c,198.0,0.7,0.1,8.2,5.4,0.7,1.6,0.03
+plant-milks,Minor Figures Barista Oat organic,c,192.0,1.9,0.2,6.9,3.3,,0.3,0.275
+plant-milks,Rich and indulgent Hazelnut,c,122.0,1.6,0.2,3.2,3.2,0.3,0.4,0.14
+plant-milks,Organic Oat Drink imp,c,205.0,2.3,0.3,6.2,4.6,0.5,0.5,0.09
+plant-milks,Bio Hafer,c,148.0,1.2,0.2,5.6,3.3,1,0.0,0.08
+plant-milks,Oat,c,205.0,2.4,0.2,6.2,2.6,0.2,0.6,0.15
+plant-milks,Oat drink,c,138.0,0.3,0.1,6.6,3.8,0.5,0.6,0.08
+plant-milks,Coconut milk,e,598.0,15.0,12,2.1,1.4,,0.6,0.1475
+plant-milks,Organic Almond milk,b,121.0,2.5,0.2,0.5,0,0.5,1.0,0.0975
+plant-milks,Alpro Not Milk,c,248.0,3.5,0.4,5.7,0,1,0.7,0.12
+plant-milks,Soja nature sans sucre ajouté bio,b,178.0,2.6,0.6,0.7,0.5,0.5,3.9,0.03
+plant-milks,The Original Oat Drink Semi,c,191.0,1.5,0.2,6.6,4.1,0.8,1.0,0.1
+plant-milks,Organic Oat drink,c,138.0,0.3,0.1,6.6,3.8,0.5,0.6,0.08
+plant-milks,Soya Unsweetened plant based,b,138.0,1.7,0.2,1.4,0.5,0.2,3.0,0.02
+plant-milks,Coco Sans Sucres,b,59.0,1.2,1.1,0,0,0,0.1,0.07
+plant-milks,"Alpro Sojadrink, Schokoladen-Geschmack, Protein 1L",b,291.0,2.8,0.6,5.3,5,1.3,5.0,0.16
+plant-milks,Almendra,b,64.0,1.5,0.3,0,0,0,0.5,0.08
+plant-milks,Coconut Milk,e,623.0,14.8,13.8,2.7,1.6,0.5,1.3,0.05
+plant-milks,Lait de coco fluide,e,715.0,18.0,16,1,0.5,,1.2,0.06
+plant-milks,Boisson Noisette,d,286.0,4.5,0.4,5.5,4,1.1,1.0,0.05
+plant-milks,Almond No Sugars,b,63.6,1.32,0.2,0.2,0,0.12,0.6,0.13
+plant-milks,"Alpro Mandeldrink Weiß Ungesüßt, Ungeröstet 1 LT",b,56.0,1.1,0.1,0,0,0.2,0.5,0.14
+plant-milks,Organic & unsweetened Almond,b,121.0,2.5,0.2,0.5,0,0.5,1.0,0.1
+plant-milks,Whole Oat Drink,d,248.0,2.8,0.3,7,3.4,0.8,1.1,0.1
+plant-milks,Natural Coconut Cream,c,147.0,4.0,4,0,0,0,0.0,0.0
+plant-milks,Oat unsweetened,c,163.0,1.1,0.2,6.6,3.1,0.5,0.3,0.11
+plant-milks,Épeautre noisette bjorg,e,318.0,3.0,0.3,11,5.4,0.5,1.0,0.09
+plant-milks,Oat Milk,c,230.0,3.0,0.3,5.7,2,0.8,0.7,0.12
+plant-milks,Lait de coco,e,720.0,17.0,14,1,0.6,1,1.8,0.04
+plant-milks,"Alpro Sojadrink, Ungesüßt fresh",b,138.0,1.8,0.3,0,0,0.6,3.3,0.09
+plant-milks,Oat Barista Blend,c,229.0,2.9,0.2,5.8,2.8,0.8,0.8,0.12
+plant-milks,Unsweetened UHT Soya Drink,b,130.0,1.92,0.32,0.16,0,0,3.4,0.083
+plant-milks,Coconut Milk,e,456.0,11.0,9.7,2.2,1.3,0,0.5,0.05
+plant-milks,Organic Soya Unsweetened U.H.T.,b,132.0,1.9,0.3,0,0,0.6,3.3,0.03
+plant-milks,Oat M*lk,c,102.0,1.05,0.1,4.75,2.25,,0.1,0.05
+plant-milks,soya Vanille,c,240.0,1.8,0.3,6.7,6.7,0.5,3.0,0.14
+plant-milks,Soya Wholebean Unsweetened Drink U.H.T.,b,138.0,1.8,0.3,0,,0.6,3.3,0.09
+plant-milks,Nordic Oat Drink,c,197.0,1.5,0.1,7.1,3,1,0.7,0.0975
+plant-milks,Oatly Semi Oat Drink imp,c,201.0,1.5,0.2,7,3.4,0.8,1.1,0.1
+plant-milks,Bebida avena Calcio,d,219.0,2.5,2,6.8,3.6,0.56,0.5,0.115
+plant-milks,RUDE Almond Organic Drink imp,d,234.0,1.5,0.3,10,4.7,0.5,0.5,0.08
+plant-milks,Coconut Milk,e,632.0,15.0,13,3.2,1.9,0,0.9,0.1
+plant-milks,Bebida de Soja,b,147.0,1.9,0.3,0.8,0.7,0.7,3.4,0.16
+plant-milks,No Sugars Oat Drink,c,184.0,1.5,0.2,6.3,0,0.7,1.0,0.1175
+plant-milks,Oat barista edition unsweetened,d,243.0,2.3,0.2,8.4,3.6,0.4,0.8,0.00025
+plant-milks,Coconut Milk,e,816.0,19.4,16,3.2,2.3,1.2,1.3,0.0875
+plant-milks,Oat Milk,c,206.0,1.52,0.2,7.2,4.6,0.8,1.32,0.1
+plant-milks,Avoine sans sucre,b,121.0,0.9,0.2,4.5,0.5,,0.6,0.09
+plant-milks,Bio napitak od zobi,c,154.0,1.2,0.1,5.6,4.4,,0.4,0.1
+plant-milks,Avoine,c,182.0,1.2,0.2,7.2,5,0.8,0.5,0.08
+plant-milks,Coconut And Rice Milk,b,80.4,0.92,0.92,2.8,1.92,0,0.0,0.118
+plant-milks,Amande chocolat,e,247.0,1.9,0.4,9.2,7.2,0.7,0.8,0.0775
+plant-milks,"Boisson au soja, sucré",b,167.0,1.7,0.2,3.1,2.5,,3.0,0.4
+plant-milks,Barista Oat milk - Vemondo,d,218.0,2.8,0.32,5.72,2.2,0.16,0.72,0.25
+plant-milks,Coconut-flavored plant-based yoghurt,b,230.0,2.9,1.1,2.4,2.3,0.9,3.9,0.24
+plant-milks,Bio Organic Almond Drink,c,96.0,1.2,0.1,2.4,2.3,,0.5,0.0975
+plant-milks,Boisson au soja,b,133.0,1.7,0.2,1,0.4,0.2,3.0,0.08
+plant-milks,Soya Drink Unsweetened,b,117.0,1.3,0.2,0.7,0.3,0.5,3.0,0.125
+plant-milks,Coco sans sucres,b,75.0,1.4,1.3,0.8,0.5,,0.6,0.11
+plant-milks,Lait Amande calcium,b,106.0,1.7,0.2,1.7,0.5,0.5,0.7,0.1
+plant-milks,coconut milk,e,594.0,15.0,12,1.6,1.6,,1.0,0.06
+plant-milks,High Protein Soja Drink,b,239.0,2.8,0.5,2.5,2.5,0.9,5.0,0.1
+plant-milks,Mandel Vanille Geschmack,c,126.0,1.1,0.1,3.8,3.8,1.3,0.4,0.14
+plant-milks,BjORG AMANDE VANILLE,c,155.0,1.4,0.2,5.4,3.7,0,0.5,0.0975
+plant-milks,Crema di cocco,e,1039.0,25.0,24,4.5,3,0.5,2.7,0.04
+plant-milks,Bebida de Avena,c,198.0,0.7,0.1,8.2,4.8,0.7,1.6,0.03
+plant-milks,Boisson au soja nature bio,b,154.0,1.8,0.4,1.1,0.7,0.7,3.7,0.01
+plant-milks,Bebida de Almendras Enriquecida con Calcio y Vitaminas,c,151.0,2.0,0.5,3.7,3.5,0.5,0.7,0.08
+plant-milks,"Kokosnussdrink mit Soja, Barista",c,139.0,1.4,0.7,3.3,3.3,0.2,1.5,0.1
+plant-milks,Bebida de soja,b,129.0,1.7,0.3,0.6,0.6,0.4,3.1,0.1
+plant-milks,Gluten Free Barista Oat Drink,c,192.0,0.9,0.3,9.1,2.6,,0.3,0.1
+plant-milks,Soya Drink Original,b,176.0,1.9,0.3,2.7,2.5,0.6,3.3,0.1
+plant-milks,Everyday Essentials Soya Unsweetened,b,139.0,1.72,0.32,1.2,0.6,0.52,3.0,0.00019
+plant-milks,Amande Sans sucres,b,106.0,1.7,0.2,1.7,0.5,0.5,0.7,0.1
+plant-milks,unsweetened Almond milk,b,67.0,1.5,0.1,0,,0.2,0.5,0.15
+plant-milks,Organic Coconut Milk,e,745.0,18.0,17,2.4,1.8,0,2.0,0.04
+plant-milks,Boisson avoine,c,173.0,1.2,0.2,7.2,5,0.8,0.5,0.0975
+plant-milks,Vainilla,b,134.0,1.5,0.2,1.4,0,0.5,3.0,0.17
+teas,Green Tea,c,200.0,0.5,0.5,0.5,0.2,0.2,0.5,0.1
+teas,PET 1.2L MAYTEA MENTHE,c,59.0,0.0,0,3.3,3.3,0,0.0,0.03
+teas,Apple & Raisin Oat Bar,e,1784.0,17.4,9.5,59.3,29,4.9,5.6,0.29
+teas,Thé,e,84.0,8.0,6,11,5,,15.0,8.0
+teas,The vert de chine,b,4.0,0.0,0,0.2,0,,0.1,0.0
+teas,Peach ice tea,c,56.4,0.0,0,3.12,3,,0.0,0.032
+teas,Al ambar thé vert en grains,b,0.0,0.0,0,0,0,0,0.0,0.0
+teas,Thé vert glacé saveur citron vert & menthe,d,79.0,0.0,0,4.4,4.4,0,0.0,0.05
+teas,Thé vert menthe intense menthe verte & menthe poivrée,b,17.0,0.0,0,0,0,0,0.0,0.0
+teas,Thé vert,b,4.0,0.0,0,0.2,0,0,0.1,0.0
+teas,Infusion à froid Detox cranberry framboise hibiscus,b,17.0,0.5,0.1,0.5,0.5,,0.5,0.01
+teas,Thé vert,b,17.0,0.0,0,0,0,,0.0,0.0
+teas,Thé vert glacé,d,42.0,0.0,0,2.3,2.2,,0.0,0.03
+teas,Organic kombucha,b,7.0,0.5,0.1,1.6,0,0.5,0.5,0.0
+teas,Touche de Thé noir,c,59.0,0.5,0,3.3,3.2,0,0.5,0.5
+teas,Chakour Tea,b,0.0,0.0,0,0,0,,0.0,0.0
+teas,Yorkshire Tea 80 Tea Bags,b,4.0,0.0,0,0,0,0,0.0,0.0
+teas,fuze tea,d,79.0,0.0,0,4.4,4.3,,0.0,0.03
+teas,Lipton Thé 5 Fruits Rouges 20 Sachets,b,17.0,0.0,0,0.5,0.5,0,0.5,0.0
+teas,Twinning Thé Vert Menthe,b,17.0,0.0,0,0,0,,0.0,0.0
+teas,Lipton citron Ice Tea,d,79.0,0.5,0.1,4.6,4.5,,0.45,0.0
+teas,Thé noir glacé saveur framboise menthe,c,7.0,0.0,0,0.2,0.2,,0.0,0.6
+teas,Lipton Saveurs du Soir Infusion Grand Sud Menthe et Réglisse 20 Sachets Pyramid®,b,17.0,0.0,0,0.5,0.5,,0.5,0.0
+teas,Apple & Elderflower Organic Kombucha,c,67.0,0.3,0.1,2.5,2.5,,0.9,0.0975
+teas,Tea Peach Hibiscus,d,81.0,0.0,0,4.5,4.5,0,0.0,0.02
+teas,Thé vert saveur citron 25 sachets de 2 g,b,4.0,0.0,0,0.3,0,0,0.15,0.0
+teas,Lemon & Ginger tea,b,10.0,0.0,0,0,0,0,0.0,0.0
+teas,Thé vert en filaments,b,4.0,0.0,0,0.2,0,,0.1,0.0
+teas,Pure Peppermint,b,8.0,0.0,0,0,0,,0.0,0.0
+teas,Nestea limón,e,200.0,0.0,,4.5,4.5,0,0.0,0.031
+teas,Thé vert de Chine LAHCEN KANTAOUI,b,4.0,0.0,0,0.2,0,,0.1,0.0
+teas,Organic Detox Tea Bags,b,0.0,0.0,0,0,0,0,0.0,0.0
+teas,Ice Tea Melocotón,c,9.0,0.0,0,0.5,0,0,0.0,0.01
+teas,Ice Tea Limón,c,1.8,0.0,0,0.1,0,0,0.0,0.002
+teas,Tea bags,b,4.0,0.0,0,0.2,0,,0.1,0.0
+teas,Superblends Glow Tea Bags,b,4.0,0.0,0,0.5,0.5,,0.0,0.0
+teas,PET 1.2L MAYTEA CITRON,c,84.0,0.0,0,4.6,4.5,,0.0,0.03
+teas,Té verde,b,4.0,0.0,0,0.2,0,,0.1,0.0
+teas,Thé citron vert et menthe,d,79.0,0.0,0,4.4,4.4,,0.0,0.05
+teas,Thè alla Pesca,e,103.0,0.0,0,5.8,5.72,0,0.0,0.0
+teas,Marrakech tea,c,56.0,0.0,0,3.3,3.3,0,0.0,0.0
+teas,Infuse à froid - menthe + citron vert,b,17.0,0.0,0,0,0.2,0,0.1,0.0
+teas,PET 50CL POMEGRANATE ARIZONA,d,88.0,0.0,0,5,4.9,0,0.0,0.0
+teas,Thé peche abricot,b,0.0,0.0,0,0,0,0,0.0,0.0
+teas,fuzetea zitrone zitronengras,d,79.0,0.0,0,4.4,4.4,,0.0,0.03
+teas,Hibiscus + pomegranate cold infuse,b,17.0,0.5,0.1,0.5,0.5,,0.5,0.01
+teas,pure green tea,b,4.0,0.0,0,0.3,0,,0.0,0.0
+teas,Lipton Thé Noir Bio Russian Earl Grey 150g,b,17.0,0.0,0,0.5,0.5,,0.5,0.0
+teas,Kombucha Gingembre,c,45.0,0.0,0,2.5,2.5,,0.0,0.0
+teas,Healthy Energy Apple Raspberry,c,50.0,0.0,,2.7,2.5,,0.1,2.5e-05
+teas,"Lipton Liptonic l'original pétillant 1,5 L",d,140.0,0.0,0,8,7.9,,0.0,0.06
+teas,English breakfast,b,4.0,0.1,0,0.1,0.1,0,0.2,0.01
+coffees,ricore,b,577.0,0.5,0.1,9.1,9.1,45.3,2.7,0.23
+coffees,RICORÉ® aux céréales et à la chicorée solubles Boîte 250g,b,1573.0,0.3,0.2,83,3.2,8,5.1,0.23
+coffees,Café moulu pur arabica des petits producteurs,b,0.0,0.02,0,0,0,0,0.12,0.0
+coffees,,c,226.0,1.0,0.9,9.4,7.1,0.7,1.2,0.12
+coffees,"Illy Classico 100% Arabica, 250g",b,0.0,0.0,0,0,0,0,0.0,0.0
+coffees,cafe de cereales,b,1522.0,0.0,0,80.9,5.2,7.7,5.0,0.18
+coffees,PUR ARABICA DES PETITS PRODUCTEURS l'original,b,0.0,0.0,0,0,0,0,0.0,0.0
+coffees,"Nescafé, Gold cappuccino, Cappuccino",c,226.0,1.0,0.9,9.4,7.1,0.7,1.2,0.12
+coffees,"NESCAFÉ Cappuccino Noisette, Café soluble, Boîte de 270g",c,142.0,0.8,0.7,5.9,4.5,0.2,0.7,0.08
+coffees,"RICORE Noir Intense, Café & Chicorée, Boîte 240g",c,575.0,0.5,0.1,7.7,7.7,48.7,3.0,0.15
+coffees,"NESCAFÉ NES, Café Soluble,",b,484.0,0.2,0.1,3.1,3.1,34.1,7.8,0.3
+coffees,"NESCAFÉ Café Viennois, Café soluble,",d,172.0,1.0,0.9,6.9,5.2,0.2,0.8,0.14
+coffees,Cappuccino goût chocolat,c,1680.0,7.2,6.4,76,72,4,6.4,1.52
+coffees,NESCAFÉ 3in1 ORIGINAL,e,1800.0,13.3,12.1,75.2,57.6,2.42,1.21,1.02
+coffees,Capsules NESCAFE Dolce Gusto Cappuccino Extra Crema 16 Capsules,e,1765.0,20.4,10.3,35.9,23.9,12.9,17.4,0.45
+coffees,Qualita Oro,b,0.0,0.0,0,0,0,0,0.1,0.0
+coffees,LAVAZZA CREMA E GUSTO,b,4.0,0.0,0,0.3,0,,0.2,0.0
+coffees,Cappuccino saveur Viennois,e,218.0,1.6667,1.5333,8,6.6667,0,1.0667,0.86666675
+coffees,"Café moulu pur arabica, intense",b,4.0,0.0,0,0.3,0,,0.2,0.0
+coffees,"NESCAFÉ Cappuccino Vanille, Café soluble, Boîte de 310g",c,146.0,0.8,0.7,6.1,4.6,0.2,0.7,0.1
+coffees,Cappucino,c,247.0,1.3,0.8,8.6,8.5,,3.0,0.18
+coffees,Coffee Mate,c,157.0,2.2,1.7,1.9,0.7,0.3,0.1,0.06
+coffees,Samar Classic,b,4.0,0.0,0,0.3,0,,0.2,0.0
+coffees,Dolce Gusto Nesquik,e,1833.0,15.8,10.2,56.1,54.2,3.3,15.8,0.7
+coffees,Espresso,b,4.0,0.0,0,0.3,0,0,0.2,0.0
+iced-teas,PET 1.25L FUZE TEA PECHE,d,80.0,0.0,0,4.3,4.3,,0.0,0.025
+iced-teas,Ice tea,d,56.0,0.0,0,3.1,3,,0.0,0.03
+iced-teas,Ice Tea Pêche,d,56.0,0.0,0,3.1,3,0,0.0,0.03
+iced-teas,FuzeTea Thé glacé pêche intense,d,79.0,0.0,0,4.4,4.3,,0.0,0.03
+iced-teas,Ice tea,d,56.0,0.0,0,3.1,3,,0.0,0.03
+iced-teas,PET 1.25L FUZETEA PECHE HIB,d,79.0,0.0,0,4.3,4.3,0,0.0,0.03
+iced-teas,PET 1.2L MAYTEA PECHE,c,85.0,0.0,0,4.8,4.7,0,0.0,0.03
+iced-teas,PET 1.2L MAYTEA MENTHE,c,59.0,0.0,0,3.3,3.3,0,0.0,0.03
+iced-teas,Ice tea,c,6.0,0.0,0,0,0,,0.0,0.01
+iced-teas,Club-Mate Original,c,84.0,0.0,0,5,5,0,0.0,0.0
+iced-teas,Lipton Peche ice tea,e,105.0,0.0,0,6,6,,0.0,0.07
+iced-teas,Thé glacé pêche intense,c,80.0,0.0,0,4.3,4.3,,0.0,0.03
+iced-teas,saveur pêche ici tea,d,56.0,0.0,0,3.1,3,,0.0,0.03
+iced-teas,saveur fruit rouge ice tea,e,105.0,0.0,0,,6,,0.0,0.0675
+iced-teas,Thé noir glacé saveur pêche intense,c,80.0,0.0,0,4.3,4.3,0,0.0,0.03
+iced-teas,Ice tea saveur pêche,d,56.0,0.0,0,3.1,3,,0.0,0.03
+iced-teas,Peach ice tea,c,56.4,0.0,0,3.12,3,,0.0,0.032
+iced-teas,"PET 1,5L OASIS ICE YEA PECHE",c,79.0,0.0,0,4.5,4.4,,0.0,0.03
+iced-teas,Thé vert glacé saveur citron vert & menthe,d,79.0,0.0,0,4.4,4.4,0,0.0,0.05
+iced-teas,Thé vert glacé,d,42.0,0.0,0,2.3,2.2,,0.0,0.03
+iced-teas,Iced tea saveur pêche,d,130.0,0.0,0,7.5,7.5,,0.0,0.0
+iced-teas,fuze tea,d,79.0,0.0,0,4.4,4.3,,0.0,0.03
+iced-teas,PET 1.2L MAYTEA FRAMBOISE,c,84.0,0.0,0,4.7,4.7,0,0.0,0.03
+iced-teas,Oasis ice tea saveur pêche,e,79.0,0.0,0,4.5,4.4,,0.0,2.0
+iced-teas,Lipton Ice Tea saveur pêche,d,56.0,0.0,0,3.1,3,,0.0,0.03
+iced-teas,Lipton citron Ice Tea,d,79.0,0.5,0.1,4.6,4.5,,0.45,0.0
+iced-teas,Nestea Limón,d,80.0,0.0,0,4.5,4.5,,0.0,0.3
+iced-teas,Thé noir glacé saveur framboise menthe,c,7.0,0.0,0,0.2,0.2,,0.0,0.6
+iced-teas,Ice tea zero,c,7.6,0.0,0,0.1,0,,0.0,0.03
+iced-teas,Tea Peach Hibiscus,d,81.0,0.0,0,4.5,4.5,0,0.0,0.02
+iced-teas,Broskev a ibišek,c,79.0,0.0,0,4.4,4.4,0,0.0,0.02
+iced-teas,Nestea limón,e,200.0,0.0,,4.5,4.5,0,0.0,0.031
+iced-teas,Fuze tea lime mint,c,79.0,0.0,0,4.5,4.5,0,0.0,0.05
+iced-teas,Lipton sans sucre,c,6.0,0.0,0,0,0,,0.0,0.01
+iced-teas,Ice Tea - Pfirsich,d,108.0,0.5,0.1,6.2,6.2,,0.5,0.01
+iced-teas,Lipton Ice Tea,d,80.0,0.5,0.1,4.7,4.5,,0.5,0.05
+iced-teas,"Lipton Ice Tea saveur framboise 1,25 L",d,82.0,0.0,0,4.6,4.5,0,0.0,0.03
+iced-teas,Ice Tea Melocotón,c,9.0,0.0,0,0.5,0,0,0.0,0.01
+iced-teas,Ice Tea Limón,c,1.8,0.0,0,0.1,0,0,0.0,0.002
+iced-teas,PET 1.2L MAYTEA CITRON,c,84.0,0.0,0,4.6,4.5,,0.0,0.03
+iced-teas,Thé glacé saveur pêche,c,4.0,0.0,0,0,0,,0.0,0.03
+iced-teas,"Lipton Ice Tea saveur citron citron vert 1,25 L",d,55.0,0.0,0,3.1,3,0,0.0,0.02
+iced-teas,Thé citron vert et menthe,d,79.0,0.0,0,4.4,4.4,,0.0,0.05
+iced-teas,Thè alla Pesca,e,103.0,0.0,0,5.8,5.72,0,0.0,0.0
+iced-teas,Ice Tea Lemon,e,103.0,0.0,0,5.8,5.7,0,0.0,0.0
+iced-teas,Fuzetea Black Tea Peach Hibiscus,e,316.0,0.0,0,17,17,0,0.0,0.12
+iced-teas,Originale tè verde con miele,c,78.0,0.0,0,5,4.7,,0.0,0.0
+iced-teas,Black ice tea - Forest Fruit,c,84.0,0.0,0,4.5,4.5,,0.0,0.05
+iced-teas,fuzetea zitrone zitronengras,d,79.0,0.0,0,4.4,4.4,,0.0,0.03
+iced-teas,Estathé Pesca,d,134.0,0.0,0,7.8,7.8,,0.0,0.0
+iced-teas,Lipton saveur pêche pétillant,d,84.0,0.0,0,4.6,4.5,,0.0,0.04
+iced-teas,"Lipton Liptonic l'original pétillant 1,5 L",d,140.0,0.0,0,8,7.9,,0.0,0.06
+iced-teas,"Volvic Tee Pfirsich 1,5 L EW",c,64.0,0.0,0,3.8,3.8,,0.0,0.01
+iced-teas,Thé vert infusé glacé parfum jasmin,c,75.0,0.0,0,4.3,4.2,,0.0,0.03
+iced-teas,Lipton Thé vert glacé saveur citron vert menthe,d,42.0,0.0,0,2.3,2.2,,0.0,0.03
+iced-teas,Tea Verde,c,87.0,0.0,0,4.9,0,0,0.0,0.3
+iced-teas,"Lipton Thé vert glacé saveur pêche blanche 1,25 L",d,43.0,0.0,0,2.4,2.2,,0.0,0.03
+iced-teas,Lipton Ice Tea saveur pêche 25 cl,d,82.0,0.0,0,4.6,4.5,,0.0,0.01
+iced-teas,Lemon Ice Tea,c,54.0,0.0,0,3.1,3,,0.0,0.075
+iced-teas,Nestea sin azúcar,c,4.0,0.0,0,0,0,,0.0,0.05
+iced-teas,Thé noir infusé glacé pêche de vigne,c,79.0,0.0,0,4.4,4.4,,0.1,0.05
+iced-teas,Thé noir glacé framboise menthe,c,7.0,0.0,0,0.2,0.2,0,0.0,0.06
+iced-teas,Refresco de té negro con limón sin azúcar sin calorías,c,4.0,0.0,0,0,0,0,0.0,0.0515
+iced-teas,Thé noir infusé glacé saveur pêche,c,77.0,0.0,0,4.5,4.5,,0.0,0.01
+iced-teas,PET 1.5L OAS THE FRBCAS,d,75.0,0.0,0,4.4,4.3,0,0.0,0.03
+iced-teas,Nestea de piersici,c,79.0,0.5,0,4.5,4.5,0,0.5,0.02
+iced-teas,Original green tea with honey,c,78.0,0.0,0,5,4.7,0,0.0,0.0
+iced-teas,Ice Tea - Saveur framboise,d,82.0,0.0,0,4.6,4.5,,0.0,0.03
+iced-teas,AriZona blueberry white tea,d,84.0,0.0,0,5.2,4.9,,0.0,0.0
+iced-teas,Nestea maracuya 33cl,c,83.0,0.0,0,4.6,4.6,,0.0,0.05
+iced-teas,Harry Bromptons Peach Ice Tea,c,59.0,0.0,0,3.6,3.6,,0.0,0.0
+iced-teas,Lipton Ice Tea saveur framboise,d,82.0,0.0,0,4.6,4.5,0,0.0,0.03
+iced-teas,Lipton Ice Tea saveur pêche sans sucres 33 cl,c,6.0,0.0,0,0,0,0,0.0,0.01
+iced-teas,Thé infusé glacé a la framboise,c,84.0,0.0,0,4.7,4.7,,0.0,0.03
+iced-teas,Hibiscus saveur framboise facon infusion glacee,c,38.0,0.0,0,2.1,2,,0.0,0.03
+iced-teas,Thé glacé à la pêche,c,96.0,0.0,0,5.8,5.6,0,0.0,0.04
+iced-teas,Peach Iced Tea,d,79.0,0.5,0.1,4.7,4.5,,0.5,0.02
+iced-teas,Ice Tea Mango Zero,c,6.0,0.0,0,0.1,0,0,0.0,0.06
+iced-teas,May Tea mûre myrtille,c,75.0,0.0,0,4.3,4.3,,0.0,0.03
+iced-teas,Lipton Ice Tea saveur pêche sans sucres,c,6.0,0.0,0,0,0,,0.0,0.01
+iced-teas,JOMO Pêche hibiscus,c,70.0,0.0,0,4,3.7,0.1,0.1,0.05
+iced-teas,CeI Negru Piersici Hibiscus,c,79.0,0.0,0,4.4,4.4,0,0.0,0.02
+iced-teas,Nestea con Té verde al maracuyá,c,84.0,0.0,,4.6,4.6,,0.0,0.05
+iced-teas,Lipton pastèque menthe,d,81.0,0.0,0,4.6,4.5,0,0.0,0.02
+iced-teas,Ice Tea culte Citron,d,119.0,0.5,0,7,6.9,0,0.0,0.0
+iced-teas,Thé infusé glacé bio saveur menthe du Maroc,c,75.0,0.5,0.1,4.5,4.4,,0.5,0.01
+iced-teas,Iced tea with peach flavour,c,87.0,0.0,0,4.9,4.8,0,0.0,0.0
+iced-teas,Estathé Pesca,d,136.0,0.0,0,7.8,7.5,0,0.0,0.0
+iced-teas,Ice Tea - Lemon Lime,d,110.0,0.5,0.1,6.3,6.3,,0.5,0.01
+iced-teas,Thé glacé pêche pétillant,d,81.2,0.0,0,4.55,4.55,,0.0,0.0356
+iced-teas,Pure Leaf Thé infusé glacé bio saveur menthe fraîche 1 L,c,80.0,0.5,0.1,4.5,4.5,,0.2,0.0
+iced-teas,Oasis Ice Tea,d,80.0,0.0,0,4.5,4.4,,0.0,0.03
+iced-teas,Schwarzer Tee Zitrone,d,126.0,0.0,0,7.2,7.2,,0.0,0.03
+iced-teas,Fresh Tea - Saveur pêche,c,6.0,0.0,0,0,0,0,0.0,0.0
+iced-teas,fuze tea,d,140.0,0.0,0,8,8,0,0.0,0.03
+iced-teas,Black ice tea,e,209.0,0.0,0,11,11,0,0.0,0.13
+milk-substitutes,Geröstete Mandel Ohne Zucker,b,61.0,1.1,0.1,0,0,0.3,0.5,0.15
+milk-substitutes,Oat Drink Barista Edition,d,255.0,3.0,0.3,7.1,3.4,0.8,1.1,0.0975
+milk-substitutes,Ohne Zucker Hafer,c,183.0,1.8,0.2,5.5,0,1.3,0.7,0.09
+milk-substitutes,Bio-Almond-Mandelmilch,c,112.0,2.4,0.2,0,0,0.4,1.0,0.26
+milk-substitutes,Geröstete Mandel,c,93.0,1.1,0.1,2.4,2.4,0.4,0.4,0.14
+milk-substitutes,BjORG AMANDE ALMOND SANS SUGRES- NO SUGAR,b,102.0,1.7,0.2,1.6,0.5,0.5,0.7,0.05
+milk-substitutes,Oat,c,192.0,1.5,0.2,6.6,3.3,1.4,0.8,0.0775
+milk-substitutes,Hafer Milch Barista Edition,d,257.0,3.0,0.3,7.1,3.4,0.8,1.1,0.1
+milk-substitutes,"Alpro Haferdrink, Ungesüßt 1 L, FRESH",c,169.0,1.5,0.2,5.8,0,1.2,0.2,0.11
+milk-substitutes,"Alpro® Barista Haferdrink, 1 L, UHT",d,248.0,3.0,0.3,6.7,3.3,1,0.8,0.13
+milk-substitutes,The Original Organic Oat Drink imp,c,166.0,0.5,0.1,7.2,3.4,0.8,1.1,0.1
+milk-substitutes,Soyamilch,b,163.0,1.8,0.3,2.5,2.5,0.5,3.0,0.09
+milk-substitutes,Avoine - Boisson biologique,c,187.0,1.5,0.3,7,4,0.5,0.5,0.09
+milk-substitutes,Oat Drink Whole,d,251.0,2.8,0.3,7.9,3.4,0.8,1.1,0.0975
+milk-substitutes,Délicieuse & Tropical Coco,b,85.0,0.8,0.8,2.7,1.9,0.1,0.1,0.13
+milk-substitutes,Barista edition oat drink,d,255.0,3.0,0.3,7.1,3.4,0.8,1.1,0.1
+milk-substitutes,Lait de coco,e,749.0,18.0,17,2.9,2.2,0.5,2.0,0.03
+milk-substitutes,Bjorg amande,c,171.0,1.9,0.3,5.4,4,,0.5,0.05
+milk-substitutes,asiri fraise,e,272.0,1.07,0.89,13.1,8,,0.7,0.0
+milk-substitutes,"Alpro® Mandeldrink Ungesüßt, 1 L, FRESH",b,53.0,1.1,0.1,0,0,0.4,0.4,0.13
+milk-substitutes,"Alpro Sojadrink, Ungesüßt 1L",b,138.0,1.8,0.3,0,0,0.6,3.3,0.09
+milk-substitutes,Bebida de Avena,c,198.0,0.7,0.1,8.2,5.4,0.7,1.6,0.03
+milk-substitutes,Minor Figures Barista Oat organic,c,192.0,1.9,0.2,6.9,3.3,,0.3,0.275
+milk-substitutes,Rich and indulgent Hazelnut,c,122.0,1.6,0.2,3.2,3.2,0.3,0.4,0.14
+milk-substitutes,Organic Oat Drink imp,c,205.0,2.3,0.3,6.2,4.6,0.5,0.5,0.09
+milk-substitutes,Bio Hafer,c,148.0,1.2,0.2,5.6,3.3,1,0.0,0.08
+milk-substitutes,Oat,c,205.0,2.4,0.2,6.2,2.6,0.2,0.6,0.15
+milk-substitutes,Oat drink,c,138.0,0.3,0.1,6.6,3.8,0.5,0.6,0.08
+milk-substitutes,Coconut milk,e,598.0,15.0,12,2.1,1.4,,0.6,0.1475
+milk-substitutes,Organic Almond milk,b,121.0,2.5,0.2,0.5,0,0.5,1.0,0.0975
+milk-substitutes,Alpro Not Milk,c,248.0,3.5,0.4,5.7,0,1,0.7,0.12
+milk-substitutes,Soja nature sans sucre ajouté bio,b,178.0,2.6,0.6,0.7,0.5,0.5,3.9,0.03
+milk-substitutes,The Original Oat Drink Semi,c,191.0,1.5,0.2,6.6,4.1,0.8,1.0,0.1
+milk-substitutes,Organic Oat drink,c,138.0,0.3,0.1,6.6,3.8,0.5,0.6,0.08
+milk-substitutes,Soya Unsweetened plant based,b,138.0,1.7,0.2,1.4,0.5,0.2,3.0,0.02
+milk-substitutes,Coco Sans Sucres,b,59.0,1.2,1.1,0,0,0,0.1,0.07
+milk-substitutes,"Alpro Sojadrink, Schokoladen-Geschmack, Protein 1L",b,291.0,2.8,0.6,5.3,5,1.3,5.0,0.16
+milk-substitutes,Almendra,b,64.0,1.5,0.3,0,0,0,0.5,0.08
+milk-substitutes,Coconut Milk,e,623.0,14.8,13.8,2.7,1.6,0.5,1.3,0.05
+milk-substitutes,Lait de coco fluide,e,715.0,18.0,16,1,0.5,,1.2,0.06
+milk-substitutes,Boisson Noisette,d,286.0,4.5,0.4,5.5,4,1.1,1.0,0.05
+milk-substitutes,Almond No Sugars,b,63.6,1.32,0.2,0.2,0,0.12,0.6,0.13
+milk-substitutes,"Alpro Mandeldrink Weiß Ungesüßt, Ungeröstet 1 LT",b,56.0,1.1,0.1,0,0,0.2,0.5,0.14
+milk-substitutes,Organic & unsweetened Almond,b,121.0,2.5,0.2,0.5,0,0.5,1.0,0.1
+milk-substitutes,Whole Oat Drink,d,248.0,2.8,0.3,7,3.4,0.8,1.1,0.1
+milk-substitutes,Natural Coconut Cream,c,147.0,4.0,4,0,0,0,0.0,0.0
+milk-substitutes,Oat unsweetened,c,163.0,1.1,0.2,6.6,3.1,0.5,0.3,0.11
+milk-substitutes,Épeautre noisette bjorg,e,318.0,3.0,0.3,11,5.4,0.5,1.0,0.09
+milk-substitutes,Oat Milk,c,230.0,3.0,0.3,5.7,2,0.8,0.7,0.12
+milk-substitutes,Lait de coco,e,720.0,17.0,14,1,0.6,1,1.8,0.04
+milk-substitutes,Unsweetened UHT Soya Drink,b,130.0,1.92,0.32,0.16,0,0,3.4,0.083
+milk-substitutes,"Alpro Sojadrink, Ungesüßt fresh",b,138.0,1.8,0.3,0,0,0.6,3.3,0.09
+milk-substitutes,Oat Barista Blend,c,229.0,2.9,0.2,5.8,2.8,0.8,0.8,0.12
+milk-substitutes,Coconut Milk,e,456.0,11.0,9.7,2.2,1.3,0,0.5,0.05
+milk-substitutes,Organic Soya Unsweetened U.H.T.,b,132.0,1.9,0.3,0,0,0.6,3.3,0.03
+milk-substitutes,Oat M*lk,c,102.0,1.05,0.1,4.75,2.25,,0.1,0.05
+milk-substitutes,soya Vanille,c,240.0,1.8,0.3,6.7,6.7,0.5,3.0,0.14
+milk-substitutes,Soya Wholebean Unsweetened Drink U.H.T.,b,138.0,1.8,0.3,0,,0.6,3.3,0.09
+milk-substitutes,Nordic Oat Drink,c,197.0,1.5,0.1,7.1,3,1,0.7,0.0975
+milk-substitutes,RUDE Almond Organic Drink imp,d,234.0,1.5,0.3,10,4.7,0.5,0.5,0.08
+milk-substitutes,Oatly Semi Oat Drink imp,c,201.0,1.5,0.2,7,3.4,0.8,1.1,0.1
+milk-substitutes,Bebida avena Calcio,d,219.0,2.5,2,6.8,3.6,0.56,0.5,0.115
+milk-substitutes,Coconut Milk,e,632.0,15.0,13,3.2,1.9,0,0.9,0.1
+milk-substitutes,Bebida de Soja,b,147.0,1.9,0.3,0.8,0.7,0.7,3.4,0.16
+milk-substitutes,Oat barista edition unsweetened,d,243.0,2.3,0.2,8.4,3.6,0.4,0.8,0.00025
+milk-substitutes,Coconut Milk,e,816.0,19.4,16,3.2,2.3,1.2,1.3,0.0875
+milk-substitutes,No Sugars Oat Drink,c,184.0,1.5,0.2,6.3,0,0.7,1.0,0.1175
+milk-substitutes,Oat Milk,c,206.0,1.52,0.2,7.2,4.6,0.8,1.32,0.1
+milk-substitutes,Avoine sans sucre,b,121.0,0.9,0.2,4.5,0.5,,0.6,0.09
+milk-substitutes,Bio napitak od zobi,c,154.0,1.2,0.1,5.6,4.4,,0.4,0.1
+milk-substitutes,Coconut And Rice Milk,b,80.4,0.92,0.92,2.8,1.92,0,0.0,0.118
+milk-substitutes,Avoine,c,182.0,1.2,0.2,7.2,5,0.8,0.5,0.08
+milk-substitutes,Amande chocolat,e,247.0,1.9,0.4,9.2,7.2,0.7,0.8,0.0775
+milk-substitutes,"Boisson au soja, sucré",b,167.0,1.7,0.2,3.1,2.5,,3.0,0.4
+milk-substitutes,Barista Oat milk - Vemondo,d,218.0,2.8,0.32,5.72,2.2,0.16,0.72,0.25
+milk-substitutes,Boisson au soja,b,133.0,1.7,0.2,1,0.4,0.2,3.0,0.08
+milk-substitutes,Coconut-flavored plant-based yoghurt,b,230.0,2.9,1.1,2.4,2.3,0.9,3.9,0.24
+milk-substitutes,Soya Drink Unsweetened,b,117.0,1.3,0.2,0.7,0.3,0.5,3.0,0.125
+milk-substitutes,Bio Organic Almond Drink,c,96.0,1.2,0.1,2.4,2.3,,0.5,0.0975
+milk-substitutes,Coco sans sucres,b,75.0,1.4,1.3,0.8,0.5,,0.6,0.11
+milk-substitutes,Lait Amande calcium,b,106.0,1.7,0.2,1.7,0.5,0.5,0.7,0.1
+milk-substitutes,BjORG AMANDE VANILLE,c,155.0,1.4,0.2,5.4,3.7,0,0.5,0.0975
+milk-substitutes,coconut milk,e,594.0,15.0,12,1.6,1.6,,1.0,0.06
+milk-substitutes,Mandel Vanille Geschmack,c,126.0,1.1,0.1,3.8,3.8,1.3,0.4,0.14
+milk-substitutes,High Protein Soja Drink,b,239.0,2.8,0.5,2.5,2.5,0.9,5.0,0.1
+milk-substitutes,Crema di cocco,e,1039.0,25.0,24,4.5,3,0.5,2.7,0.04
+milk-substitutes,Boisson au soja nature bio,b,154.0,1.8,0.4,1.1,0.7,0.7,3.7,0.01
+milk-substitutes,Bebida de Avena,c,198.0,0.7,0.1,8.2,4.8,0.7,1.6,0.03
+milk-substitutes,Bebida de Almendras Enriquecida con Calcio y Vitaminas,c,151.0,2.0,0.5,3.7,3.5,0.5,0.7,0.08
+milk-substitutes,"Kokosnussdrink mit Soja, Barista",c,139.0,1.4,0.7,3.3,3.3,0.2,1.5,0.1
+milk-substitutes,Gluten Free Barista Oat Drink,c,192.0,0.9,0.3,9.1,2.6,,0.3,0.1
+milk-substitutes,Soya Drink Original,b,176.0,1.9,0.3,2.7,2.5,0.6,3.3,0.1
+milk-substitutes,Amande Sans sucres,b,106.0,1.7,0.2,1.7,0.5,0.5,0.7,0.1
+milk-substitutes,Everyday Essentials Soya Unsweetened,b,139.0,1.72,0.32,1.2,0.6,0.52,3.0,0.00019
+milk-substitutes,Bebida de soja,b,129.0,1.7,0.3,0.6,0.6,0.4,3.1,0.1
+milk-substitutes,unsweetened Almond milk,b,67.0,1.5,0.1,0,,0.2,0.5,0.15
+milk-substitutes,Organic Coconut Milk,e,745.0,18.0,17,2.4,1.8,0,2.0,0.04
+milk-substitutes,Boisson avoine,c,173.0,1.2,0.2,7.2,5,0.8,0.5,0.0975
+milk-substitutes,Vainilla,b,134.0,1.5,0.2,1.4,0,0.5,3.0,0.17
+flavored-waters,Ain Saiss,c,84.0,0.0,0,4.9,4.9,,0.0,0.0
+flavored-waters,Pétillante saveur Citron,b,1.0,0.0,0,0,0,0,0.0,0.01
+flavored-waters,Lemon,d,75.2,0.0,,4.4,4.4,,0.0,0.05
+flavored-waters,Bulles de fruits Pamplemousse Touche de citron,c,87.0,0.5,0,4.9,4.9,0.5,0.5,0.06
+flavored-waters,"1,5L CITRON VOLVIC",b,19.0,0.0,0,0.9,0.9,,0.0,0.01
+flavored-waters,Infusion touche d'Hibiscus,c,55.0,0.0,0,3.1,3.1,0,0.5,0.0
+flavored-waters,Eau gazeuse au citron,d,57.0,0.5,0,3.3,3.3,,0.5,0.06
+flavored-waters,Volvic Zest Citron,b,19.0,0.0,0,0.9,0.9,0,0.0,0.01
+flavored-waters,Pétillante Saveur Citron vert,b,1.0,0.0,0,0,0,0,0.0,0.01
+flavored-waters,Blackcurrant Flavored Drink with Nata de Coco,e,213.0,0.0,0,12,12,0.5,0.0,0.11
+flavored-waters,Volvic zest citron,b,19.0,0.0,0,0.9,0.9,,0.0,0.01
+flavored-waters,Eau minérale salveta citron,b,3.0,0.0,0,0,0,,0.0,0.01
+flavored-waters,Volvic essentiel bio,b,10.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Aïn saïss citron citron vert,b,85.1,0.0,0,0,0,0,0.0,0.0
+flavored-waters,"1,5L FRAISE VOLVIC",c,83.0,0.5,0,4.9,4.9,0,0.5,0.01
+flavored-waters,Volvic Juicy Fraise,c,83.0,0.5,0,4.9,4.9,0,0.5,0.01
+flavored-waters,BULLES DE FRUITS CITRON FRAISE,c,92.0,0.5,0.5,4.9,4.9,0.5,0.5,0.06
+flavored-waters,S.pellegrino,b,3.0,0.0,0,0,0,0,0.0,0.01
+flavored-waters,CRISTALINE Eau de Source au jus de fruits FRAISE 50cl,c,67.0,0.0,0,3.7,3.7,0,0.0,0.0
+flavored-waters,Touche de Thé noir,c,59.0,0.5,0,3.3,3.2,0,0.5,0.5
+flavored-waters,Essenza - Saveur Citron & Zeste De Citron,b,4.0,0.0,0,0,0,0,0.0,0.01
+flavored-waters,SANPELLEGRINO Momenti boisson gazeuse aromatisée Grenade Cassi 33cl,b,40.0,0.0,0,2,2,0,0.0,0.0
+flavored-waters,British Sparkling Spring Water Raspberries,b,6.0,0.0,0,0.1,0,,0.0,0.0
+flavored-waters,CRISTALINE Eau de Source au jus de fruits PECHE 50cl,d,56.0,0.0,0,3.1,2.9,0,0.0,0.0
+flavored-waters,Juicy Citronnade - Eau minérale naturelle,c,167.0,0.3,0,4.9,4.9,0,0.5,0.01
+flavored-waters,Badoit Zest Citron,b,2.0,0.0,0,0,0,,0.0,0.05
+flavored-waters,Bulles de fruit citron touche de menthe,d,92.0,0.5,0,4.9,4.9,0.5,0.5,0.06
+flavored-waters,PET 50CL VOLVIC JUICY FRAISE,c,83.0,0.5,0,4.9,4.9,,0.5,0.01
+flavored-waters,Forever citron vert,b,2.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Lime Sparkling Water,b,7.0,0.0,0,0,0,0,0.0,0.001
+flavored-waters,Perrier Agrumes,b,0.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,CRISTALINE Eau de Source au jus de fruits PECHE 1.5L,d,56.0,0.0,0,3.1,2.9,0,0.0,0.0
+flavored-waters,1.5L VOLVIC JUICY FR.EXO.,c,87.0,0.5,0,4.9,4.9,,0.5,0.01
+flavored-waters,Volvic Infusion Bio,c,105.0,0.5,0,2.4,2.4,,0.5,0.0
+flavored-waters,Boisson bio aromatisée au citron,b,29.0,0.0,0,1.6,1.5,0,0.0,0.0
+flavored-waters,MOGU MOGU Peach flavored Drink with Nata de coco,e,195.0,0.0,0,11,11,0,0.0,0.05
+flavored-waters,Saguaro saveur citron sans sucre,b,4.0,0.0,0,0,0,,0.0,0.0
+flavored-waters,Eau minérale pétillante,b,0.0,0.0,0,0,0,0,0.0,0.01
+flavored-waters,Eau pétillante citron,b,1.0,0.0,0,0,0,,0.0,0.007
+flavored-waters,Saveur fraise,c,2.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Peaches Sparkling Water,b,4.0,0.0,0,0.5,0,,0.0,0.001
+flavored-waters,CRISTALINE Eau de Source au jus de fruits CITRONNADE 50cl,d,53.0,0.0,0,2.9,2.9,0,0.0,0.0
+flavored-waters,Vittel Recharge + Goût Fruits Rouges,c,42.0,0.0,0,2.3,2.3,,0.0,0.0
+flavored-waters,Badoit zest citron vert sans sucres,b,3.0,0.0,0,0,0,,0.0,0.05
+flavored-waters,Fusion,b,0.0,0.0,0,0,0,,0.0,0.0
+flavored-waters,Perrier Pêche Cerise,c,54.0,0.0,0,3,2.4,0,0.0,0.0
+flavored-waters,Eau à l'arôme naturel de citron,b,4.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,"Volvic infusion bio , thé vert",c,59.0,0.5,0,3.3,3.3,,0.5,0.0
+flavored-waters,Badoit Zest citron vert,b,3.0,0.0,0,0,0,,0.0,0.05
+flavored-waters,Volvic strawberry,c,4.0,0.0,0,0,0,,0.0,0.01
+flavored-waters,"Volvic Tee Pfirsich 1,5 L EW",c,64.0,0.0,0,3.8,3.8,,0.0,0.01
+flavored-waters,Lemon Still Water,c,59.0,0.0,0,3.3,3.3,,0.0,0.07
+flavored-waters,zest saveur fraise,b,33.0,0.0,0,1.9,1.9,,0.0,0.01
+flavored-waters,Vitamin well reload,c,71.0,0.0,0,4.2,4.2,0,0.0,0.025
+flavored-waters,Forever Citron,b,2.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Naturally Essenced Pamplemousse Sparkling Water,b,0.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Mango Sparkling Water,b,13.0,0.0,0,0,0,0,0.0,0.001
+flavored-waters,Volvic zest saveur fraise,b,35.0,0.0,0,1.9,1.9,0,0.0,0.01
+flavored-waters,Sparkling Water Apple And Raspberry,c,9.0,0.0,0,0.3,0.2,0,0.0,0.01
+flavored-waters,Naturally Essenced LimonCello Sparkling Water,b,0.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Luchon,c,60.0,0.3,0.1,3.3,3.2,0.5,0.3,0.01
+flavored-waters,Juicy Fruits Exotiques,c,87.0,0.5,0,4.9,4.9,,0.5,0.01
+flavored-waters,,b,8.0,0.0,0,0.5,0.5,0,0.0,0.01
+flavored-waters,VITTEL ARO eau aromatisée Fraise 1L,c,43.0,0.0,0,2.4,2.3,0,0.0,0.0
+flavored-waters,Contrex Green Antioxydant,b,33.0,0.0,0,1.8,1.8,0,0.0,0.0
+flavored-waters,Intensément pétillante saveur citron,b,7.0,0.0,0,0,0,,0.0,0.0
+flavored-waters,CRISTALINE Eau de Source au jus de fruits CITRONNADE 1.5L,d,53.0,0.0,0,2.9,2.9,0,0.0,0.0
+flavored-waters,VITTEL ARO eau aromatisée Citron/Citron vert 1L,b,29.0,0.0,0,1.6,1.5,0,0.0,0.0
+flavored-waters,,d,67.0,0.0,0,3.9,3.9,0,0.0,0.02
+flavored-waters,CRISTALINE Eau de Source Aromatisée saveur Citron 1L5,b,5.0,0.0,0,1,0,0,0.0,0.0
+flavored-waters,VITTEL UP eau aromatisée Pamplemousse BIO 1L,b,30.0,0.0,0,1.6,1.6,0,0.0,0.0
+flavored-waters,Touch of Fruit - Strawberry,c,40.0,0.5,0.1,2.3,2.3,,0.0,0.01
+flavored-waters,,b,34.0,0.0,0,2,2,0,0.0,0.0
+flavored-waters,Eau minérale naturelle de citron verdelli de Sicile,b,3.6,0.2,0,0,0,,0.0,0.004
+flavored-waters,Touch of Strawberry,d,42.0,0.0,0,2.3,2.3,,0.0,0.01
+flavored-waters,Saveur cassis,c,3.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Dada cerise,d,60.0,0.0,0,3.6,3.6,,0.0,0.005
+flavored-waters,VITTEL Fruits Infusés bio eau aromatisée framboise & cassis 75cl,c,60.0,0.0,0,3.3,3.3,0,0.0,0.0
+flavored-waters,Eau pétillante saveur menthe,b,4.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,La pétillante Citron,b,2.0,0.5,0.1,0.5,0.5,0.5,0.5,0.01
+flavored-waters,Lime Sparkling Water,b,0.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,La Pétillante Citron - Citron vert,b,1.0,0.5,0.1,0.5,0.5,0.5,0.5,0.01
+flavored-waters,British sparkling spring water infused with wonky blackcurrants,b,4.0,0.0,0,0.1,0.1,,0.0,0.003
+flavored-waters,CRISTALINE Eau de Source au jus de fruitsTROPICAL 1.5L,d,56.0,0.0,0,3.2,3.2,0,0.0,0.0
+flavored-waters,Magnetic Juice,c,56.0,0.0,0,3,2.7,0,0.0,0.0
+flavored-waters,Eau minérale pétillante citron,b,7.0,0.5,0,0.5,0,0,0.5,0.01
+flavored-waters,Vitamin aqua Ca,c,59.0,0.0,0,3.2,3.2,,0.0,0.0
+flavored-waters,Naturally Essenced Lime Sparkling Water,b,0.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Eau minérale au citron,b,2.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Eau minerale naturelle et saveurs fruitées (Saveur Citron et Zeste de citron),b,4.0,0.0,0,0,0,0,0.0,0.0
+flavored-waters,Spa touch of lemon,b,0.0,0.0,0,0,0,0,0.0,0.0
+fermented-drinks,Jamila,e,301.0,1.7,1.1,12.4,9,0,1.9,0.0
+fermented-drinks,LBEN CARTON PASTEURISER,b,188.0,1.3,0.9,4.8,0,0,3.2,0.0
+fermented-drinks,Yeo Valley Organic kefir natural fermented yogurt,c,268.0,2.1,1.4,5.4,5.4,0,4.7,0.12
+fermented-drinks,Kefir Drink Original,b,248.0,2.92,2.12,4.8,2.8,,3.52,0.098
+fermented-drinks,Kefir,b,242.0,3.0,1.9,4.4,3.7,,3.3,0.1
+fermented-drinks,Leben,b,183.0,1.3,0.9,4.8,0,0,3.2,0.0
+fermented-drinks,Kefir - Pur,b,193.0,1.5,1,4.1,4.1,,3.4,0.12
+fermented-drinks,Danup fraise,e,332.0,1.2,0.8,14.7,10.6,,2.4,0.09
+fermented-drinks,Kefir Natural,b,234.0,1.9,1.2,5.7,5.7,,4.0,0.1575
+fermented-drinks,Actimel,d,328.0,1.9067796610169,1.271186440678,13.771186440678,5.2966101694915,,2.0127118644068,0.0
+fermented-drinks,Fraise Framboise,b,255.0,0.5,0.3,5.5,5.2,,8.4,0.18
+fermented-drinks,jaouda p'tit dej honey,c,97.6,3.7,2.4,13.3,9,1,3.0,0.2
+fermented-drinks,biotiful gut health kefir protues,b,276.0,0.4,0.2,3.52,3.52,,12.0,0.098
+fermented-drinks,L'ben,b,168.46,1.65,1.13,3.62,0,0,2.7,0.07
+fermented-drinks,Actimel,d,310.0,1.8,1.2,13,5,,1.9,0.0
+fermented-drinks,M&S x Zoe Gut Shot,c,251.0,1.7,1.1,7.8,5.6,2.2,2.2,0.05
+fermented-drinks,yogo fraise,e,398.0,6.9,2.44,55.14,35.24,6.3,1.99,0.55
+fermented-drinks,Kefir Yogurt,c,318.0,4.1,2.1,4.3,4.3,,5.1,0.14
+fermented-drinks,Protein drink Chocolate,c,326.0,1.2,0.8,5.1,4.6,5.1,10.9,0.77
+fermented-drinks,"Kefir 1,5%",b,192.0,1.5,1,4.7,4.7,0,3.3,0.1
+fermented-drinks,Kéfir natural,b,151.0,0.5,0.1,4.8,2.4,,3.9,0.17
+fermented-drinks,Suckies Strawberry,d,317.0,2.7,1.7,9,7.3,,3.9,0.08
+fermented-drinks,Daya mini vani,c,310.0,1.1,0,14,0,,2.1,0.0
+fermented-drinks,Kefir,c,268.0,2.1,1.4,5.4,5.4,,4.7,0.12
+fermented-drinks,Kefir Drink,c,272.0,2.6,1.9,7.1,5.1,,3.3,0.225
+fermented-drinks,Yeo Valley Organic Kefir Strawberry Fermented Yoghurt,e,331.0,1.9,1.3,11.1,9.5,0.1,4.2,0.11
+fermented-drinks,YAOURT A BOIRE DAYA FRAISE 900G,e,310.0,1.1,0,14,14,,2.1,0.0
+fermented-drinks,"P'tit Yop, Goût Fraise",d,277.0,0.8,0.5,10.4,10.4,,3.0,0.12
+fermented-drinks,SMOOZY,e,38.0,1.2,0.8,83,8.9,,9.0,9.0
+fermented-drinks,Kefir - Mango & Passion Fruit,c,278.0,1.6,1,9.2,7.7,,3.5,0.15
+fermented-drinks,Kéfir coco,e,223.0,2.5,1.6,7.3,7,,0.5,0.15
+fermented-drinks,Smoozy,e,352.0,2.0,1.3,14.2,9.2,0,2.2,0.1
+fermented-drinks,Hipro saveur mangue,c,251.0,0.5,0.3,5.5,5.2,,8.3,0.1775
+fermented-drinks,Kéfir,b,176.0,1.5,1.1,3.8,3.6,,3.3,0.1
+fermented-drinks,Kéfir biologique,b,184.0,1.5,1,4.1,4.1,,3.4,0.13
+fermented-drinks,Lait fermenté,b,201.0,1.7999999523163,0.013000000268221,5,3.4000000953674,,3.0,0.12999999523163
+fermented-drinks,الشركي,e,310.0,1.1,0,14,14,,2.1,0.0
+fermented-drinks,Kéfir Fresa Plátano,c,238.0,2.8,2,4.8,4.1,,3.1,0.15
+fermented-drinks,6111126001858,e,419.0,2.9,0.35,15,13.25,,3.5,0.04
+fermented-drinks,Raib banan sghir,e,318.0,1.6,0,13,13,,2.5,0.0
+fermented-drinks,raib salim vani,e,310.0,3.0,2,8.8,8.8,,3.0,0.225
+fermented-drinks,Daya fraise sghira,e,335.0,1.2,0,15,15,,2.3,0.0
+fermented-drinks,Daya,e,314.0,1.2,0.2,14,12.2,,2.3,0.09
+fermented-drinks,Soif de lait,c,318.0,1.4,0,13.7,4,,2.3,0.085
+fermented-drinks,KEFIR YOGURT Passion Fruit Mango and Papaya,c,322.0,3.4,1.5,6.5,6,,4.8,0.1475
+fermented-drinks,Daya mini Avocat,e,311.0,1.1,0,14,14,1,2.1,0.0
+fermented-drinks,Kefir,b,212.0,2.0,1.2,4.7,4.2,,3.4,0.0775
+fermented-drinks,Smoozy,e,310.0,1.1,0.7,13.8,8.9,,2.2,0.0
+fermented-drinks,Yaourt à boire sucré aromatisé,d,277.0,0.8,0.5,10.4,10.4,0,3.0,0.12
+fermented-drinks,Raïbi,e,301.0,1.1,0.7,13.3,9.2,0,2.3,0.0
+fermented-drinks,Activia bien-être  digestif,c,247.0,3.3,2.1,4.1,4.1,,3.3,0.13
+fermented-drinks,Kefir vanilla,b,255.0,2.6,1.8,6.1,4.4,,3.3,0.09
+fermented-drinks,Kéfir,b,181.0,1.5,0.9,4,4,,3.4,0.1
+fermented-drinks,Kefir drink mango,c,274.0,2.6,1.8,7.1,5.5,,3.3,0.09
+fermented-drinks,Yaourt,e,334.0,3.0,2,14.7,9,0,2.3,0.0
+fermented-drinks,Yakult,e,280.0,0.0,0,15.4,13.6,0,1.3,0.04
+fermented-drinks,Kefir,b,192.0,1.5,0.9,4,4,,4.0,0.1
+fermented-drinks,Kefir cultured milk drink,b,243.0,3.0,1.9,4.4,3.7,,3.3,0.1
+fermented-drinks,Kéfir reina 600g,b,203.0,1.5,1,4.7,4.7,,3.4,0.13
+fermented-drinks,Kefir Honey Fermented Yoghurt,b,347.0,1.4,0.9,13.5,1.5,,3.8,0.1075
+fermented-drinks,Kefir yogurt,c,314.0,3.3,1.5,6.3,5.7,,4.7,0.15
+fermented-drinks,grec boire,e,406.0,3.5,2.5,13.2,8,,2.1,0.0
+fermented-drinks,Kalinka Kefir,b,193.0,1.5,1,4.1,4.1,,3.4,0.12
+fermented-drinks,frubes,e,384.0,2.7,1.8,12,10.8,,3.7,0.15
+fermented-drinks,Kéfir,c,273.0,3.8,2.7,3.8,3.8,,3.4,0.1
+fermented-drinks,Organic Raspberry Lemonade Kombucha,c,9.0,0.0,0,1.57,0,0,0.0,0.0
+fermented-drinks,,b,141.0,0.3,0.2,3.9,4.1,0,2.8,0.11
+fermented-drinks,Le Lait Ribot,c,243.0,3.2,2.3,4,4,0,3.3,0.1
+fermented-drinks,Yop parfum vanille,d,278.0,0.8,0.5,10.6,10.4,,3.0,0.12
+fermented-drinks,الشركي بروتين,b,59.0,0.7,0.3,5.5,4.9,,8.0,0.12
+fermented-drinks,,d,272.0,0.8,0.5,10.4,10.4,0.1,3.0,0.12
+fermented-drinks,Hop parfum framboise,d,276.0,0.8,0.5,10.7,10.5,0.1,3.0,0.12
+fermented-drinks,Actimel 100 g x 12 original,e,303.0,1.5,1,10.8,10.8,,3.0,0.1
+fermented-drinks,Kefir,b,195.0,1.5,1,4.6,4.6,0,3.6,0.1
+fermented-drinks,YOP Parfum Vanille,d,279.0,0.8,0.5,10.7,10.5,,3.0,0.12
+fermented-drinks,Organic Kombucha Raspberry Lemonade,c,12.0,0.4,0.4,0.4,0,0.4,0.4,0.005
+fermented-drinks,Actimel Strawberry,e,323.0,1.5,1,12,12,0,2.8,0.1
+fermented-drinks,Mixy fraise,e,322.7,1.3,1.2,13.1,9.2,,2.3,0.0
+fermented-drinks,"Kefir 1,5 % Fat",b,178.0,1.5,1,4,4,0,3.2,0.1
+fermented-drinks,Organic kombucha,b,7.0,0.5,0.1,1.6,0,0.5,0.5,0.0
+fermented-drinks,Biotiful Dairy Organic Kefir,b,243.0,3.0,1.9,4.6,2.8,0,3.2,0.1075
+fermented-drinks,Lait fermenté,b,201.0,1.6,1.1,5.3,5.3,,3.3,0.1
+fermented-drinks,Kombucha Fraise et Pêche,c,8.0,0.0,0,0,0,0,0.0,0.02
+fermented-drinks,Protein Drink Raspberry Flavour,c,244.0,0.4,0.2,5.4,5.2,,8.3,0.17
+fermented-drinks,Kombucha Fleur de sureau & Citron,c,2.0,0.0,0,1,0,0,0.0,0.14
+fermented-drinks,Activia bien-être digestif saveur myrtille,d,301.0,3.1,2,8,7.7,,3.1,0.12
+smoothies,Super Smoothie Antioxydant,d,230.0,0.5,0.1,13,11,1.1,0.5,0.1
+smoothies,Raw Greens Virgin Smoothie,c,192.0,0.2,0,10,8.4,0.4,0.6,0.06
+smoothies,Invigorate,e,222.0,0.11,0,11,11,0.93,1.3,0.0
+smoothies,Invigorate,e,222.0,0.11,0,11,11,0.93,1.3,0.0
+smoothies,Innocent Strawberries and bananas,c,201.0,0.05,0,11,10,1.1,0.53,0.0
+smoothies,Raw Boost,e,201.0,0.3,0.1,10,8.3,0.7,0.4,0.01
+smoothies,Energise Super smoothie,c,222.0,0.0,,11,10,1.4,1.5,0.01
+smoothies,Green machine,c,172.0,0.0,0,9.6,8.4,0.5,0.5,0.0
+smoothies,Super smoothie energy 750ml,c,224.0,0.0,0,11,10,1.4,1.5,0.0
+smoothies,Innocent smoothie for kids,d,210.0,0.5,0.1,12,10,0.6,0.5,0.01
+smoothies,Bio smoothie,e,251.0,0.5,0.1,12,12,,0.6,0.01
+smoothies,smoothie mangoes & passion fruits,c,213.0,0.0,0,12,10,1.2,0.0,0.0
+smoothies,Super Smoothie Energise,b,29.1,0.0667,0.0133,1.6,1.33,0.107,0.08,0.00133
+smoothies,Super smoothie Défense,c,240.0,0.7,0.5,12,10,1.2,0.0,0.1
+smoothies,Bolt from the Blue,c,163.0,0.0,0,9.6,8.9,0,0.17,0.01
+smoothies,Innocent smoothie fraise banane 75cl,e,216.0,0.5,0.1,12,10,1.2,0.5,0.01
+smoothies,Innocent smoothies,e,209.0,0.5,0,12,10,,0.5,0.5
+smoothies,"Smoothie mangue, fruit de la passion & pomme",e,213.0,0.0,,12,10,1.2,0.0,0.0
+smoothies,Tropical Defense,c,197.0,0.32,0.21,11,10,0.96,0.0,0.0
+smoothies,"Smoothie ananas, banane & coco",e,280.0,0.7,0.6,14,12,1.1,0.8,0.01
+smoothies,Smoothie - Triple Pink,d,226.0,0.1,0,12,11,1.1,0.5,0.01
+smoothies,Stra-Balicious Smoothie fraise et banane,d,229.0,0.1,0,11.9,11.7,,0.5,0.01
+smoothies,Raw defence,e,226.0,0.28,0,12,10,0.8,0.6,0.04
+smoothies,Raw greens,d,188.0,0.1,0,9.8,8,0.7,0.7,0.06
+smoothies,True fruits - Green smoothie,e,213.0,0.0,0,11.6,10.5,1.1,0.8,0.01
+smoothies,"Apple, Mango, Spinach & Avocado Smoothie",d,250.0,1.3,0.1,11.1,10.2,0.6,0.5,0.01
+smoothies,Super smoothie défense berry - innocent 750ml,e,215.0,0.16,0.02,11,9.5,1.4,0.42,0.0
+smoothies,Smoothie fresa,c,197.0,0.1,0,10.5,9.4,0.8,0.6,0.01
+smoothies,Revitalise super smoothie,e,197.0,0.5,0.1,11,9.1,1.3,0.5,0.0
+smoothies,Smoothie Mango,d,226.0,0.1,0,12.5,11.6,0.5,0.4,0.01
+smoothies,Innocent Super Smoothie Re[Charge],c,191.0,0.5,0.1,11,9.9,0.8,0.5,0.01
+smoothies,super smoothie,d,230.0,0.5,0.1,13,11,1.1,0.5,0.01
+smoothies,Smoothie énergie,e,221.0,0.0,0,12,10,0.8,0.6,0.0
+smoothies,"Smoothie just for kids oranges, mangoes & pineapples",d,226.0,0.5,0.1,13,11,0.8,0.7,0.01
+smoothies,Smoothie - Triple Yellow,d,268.0,0.0,,14.6,13.4,1.2,0.9,0.0
+smoothies,"Smoothie, Banane, Raisin, Canneberges, Grenade, Açaï",e,303.0,0.8,0.2,14,13,,0.7,0.01
+smoothies,Raw boost,b,80.4,0.12,0.04,4,3.32,0.28,0.16,0.008
+smoothies,Smoothie pomme ananas poire kiwi,d,212.0,0.2,0.04,10.8,10.4,0.96,0.64,0.004
+smoothies,Red smoothie,d,230.0,0.1,0.1,12.5,11.7,,0.40000000596046,0.01
+smoothies,FS-Greens,c,72.0,0.5,0.1,1.7,1,1.1,0.8,0.03
+smoothies,Smoothie triple yellow,d,268.0,0.0,0,14.6,13.4,1.2,0.9,0.01
+smoothies,Smoothie Yellow,d,264.0,0.0,0,14.6,13.4,1.2,0.8,0.01
+smoothies,Strawberry and banana smoothie,e,201.0,0.1,0.01,11.5,10.9,,0.2,0.01
+smoothies,Frullato ananas banana cocco mango,e,343.0,3.2,2.9,11.6,11,,0.9,0.01
+smoothies,Blue spark super smoothie,e,184.0,0.0,0,10,10,1.1,0.5,0.0
+smoothies,Pineapples Bananas And Coconuts Fruit Smoothie,e,364.0,0.95,0.79,18,17,1.7,0.32,0.0
+smoothies,Fruity Dream,d,239.0,0.1,0.1,12.3,11.9,,0.6,0.01
+smoothies,Smoothie Purple,e,214.0,0.0,0,12,11.5,1.5,0.6,0.01
+smoothies,Super Smoothie Defense,d,240.0,0.7,0.5,12,10,1.2,0.0,0.1
+smoothies,Smoothie - Triple Pink,d,219.0,0.0,0,12.4,10.7,0.7,0.5,0.01
+smoothies,Mango passion smothie,d,259.0,0.5,0.2,13.6,11,,0.4,0.1
+smoothies,Smoothies just for kids,d,230.0,0.333,0.133,12.7,11.3,0.8,0.667,0.00667
+smoothies,Rainbow Machine,c,164.0,0.0,0,9.2,8.6,0.5,0.2,0.0
+smoothies,Smoothie Mango Machine ANTIOXYDANT Mango & Orange,c,199.0,0.5,0.5,12,9.6,0.5,0.5,0.01
+smoothies,Super smoothie Revitalise,e,215.0,0.16,0.02,11,9.5,1.4,0.42,0.4125
+smoothies,Raibow machine,e,167.0,0.0,,9.9,8.6,0,0.0,0.0
+smoothies,Trué fruits triple purple,d,219.0,0.0,0,11.5,10.7,1.7,0.6,0.01
+smoothies,Green Machine Juice Smoothie,d,251.0,0.0,,14,11.8,,0.89,0.0139
+smoothies,"Smoothie mangue, fruits de la passion & pomme",e,227.0,0.0,0,12,11,1.4,0.4,0.0
+smoothies,Innocent Super Smoothie - Exotic Energise,e,198.0,0.01,0,11,9.9,0.88,0.28,0.0
+smoothies,Super smoothie Antioxidante,d,251.0,0.3,0.1,12.6,12.1,1.1,0.5,0.01
+smoothies,Smoothies,e,231.0,0.4,0,13,10,0.6,0.4,0.0
+smoothies,Antioxidant smoothie,e,201.0,0.1,0,11,9.3,0.3,0.5,0.0
+smoothies,Mango Passionfruit Orange - Smoothie,d,229.0,0.0,0,12.4,12.4,1,0.6,0.01
+smoothies,Smoothie Super Berry,e,264.0,0.5,0.4,13.1,11.5,,1.0,0.03
+smoothies,Smoothie,d,238.0,0.5,0.1,13,11,1.1,1.0,0.01
+smoothies,Relax valeriana,e,167.0,0.1,0.1,9.5,9.5,,0.1,0.0
+smoothies,Strawberry Sensation Smoothie,c,220.0,0.5,0.2,11.3,10,0.5,0.3,0.02
+smoothies,,e,229.0,0.5,0.1,12,10.7,1.1,0.5,0.01
+smoothies,Strawberry Raspberry Blackberry Banana Smoothie,d,242.0,0.0,0,12.6,12.6,1.6,0.6,0.01
+smoothies,True Fruits - Triple Green,d,225.0,0.0,0,11.6,10.5,1.1,0.8,0.01
+smoothies,Super smoothie,c,163.0,0.5,0.1,9.3,8.8,0.96,0.5,0.01
+smoothies,Monkey Smoothies Strawberry & Banana 4 x,c,201.0,0.0,0,11.5,10.9,0.2,0.2,0.0
+smoothies,Antioxidant,d,230.0,0.5,0.1,13,11,1.1,0.5,0.01
+smoothies,Smoothie triple pink,d,219.0,0.0,0,12.4,10.7,0.7,0.5,0.1
+smoothies,Smoothie mangue fruit de la passion,b,259.0,0.5,0.2,13.6,0.5,0.5,0.4,0.1
+smoothies,Innocent smoothie fraise & banane 250ml,e,214.0,0.1,0,12,10,1.2,0.5,0.01
+smoothies,Smoothie Bowl Mango-Ananas-Banane,e,288.0,0.5,0.1,14,12,1.6,0.8,0.02
+smoothies,Pineapple Banana Coconut Smoothie,d,249.0,0.933,0.8,11.7,11.7,1,0.533,0.0133
+smoothies,innocent smoothie kiwi pomme & ananas 750ml,c,201.0,0.0,0,11,10,0.87,0.0,0.0
+smoothies,Energise,e,221.0,0.4,0.09,12,10,0.8,0.6,0.009
+smoothies,Super Smoothie Mango Fandango,e,176.0,0.5,0.1,9.9,8.6,1,0.5,0.03
+smoothies,Blue Machine,c,205.0,0.1,0,12,11,1.3,0.4,0.0
+smoothies,Power Shake - Chocolate Peanut butter,b,335.0,4.0,1.2,5.8,3.4,1.5,4.5,0.06
+smoothies,Organic Strawberry Lowfat Yogurt Probiotics Smoothie,c,260.0,1.13,0.565,9.6,8.47,,3.39,0.12
+smoothies,Green Goodness smoothie,d,223.0,0.111,0,12.4,10.4,0.444,0.444,0.0167
